@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/.android/build-cache/becb48678005bce6a34dfb01bb370ab6482f1ce9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b37fa0a5ccb902f539e728af1f9a5060b3a431f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/.android/build-cache/f91602d522dd5f31633d0233ab389cf882010492/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce8e3e01588ce61b709a5ee12f9155e7d54649da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60fb04a8af48a2f2e5f748e5578b78db6dcbaf07">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_94ad8e44964da166845b38e765bc100f1138775a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_60c4a632bf2bfa097eb88b9cadaf6a96b28facd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/.android/build-cache/becb48678005bce6a34dfb01bb370ab6482f1ce9/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_d83c7d7c2addc632629b8e068e9931e83e37ebaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/.android/build-cache/9409522b29c3b9d0c2aa47b7c923a3de4023a229/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_284fd92cd95f5de9fd71d8b35539d22bee1b8e1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1988fafdf50049e1450553e86b160f6f5261850f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/.android/build-cache/d412481523630278888dd05d8be8213c9b77dc92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a9d9b4c05d8a3ccd602302ab020e276e843ae70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/.android/build-cache/4917da0a89d360c7e6c790b9808503b6f1c6747f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffe7ea05f7c9045209c541cbf98f59d69fcf2c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnylee/.android/build-cache/3e62ad398c052b476189ae1124fbefe524ba927d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/johnnylee/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b92958687860e798bc53e85de7dd34c6bf50dd7/classes.dex" />
+    </item>
+
+</items>
